@@ -1,11 +1,10 @@
 ## Retro.io
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Projeto Desenvolvimento de Aplicação Web Back-End`
 
-`SEMESTRE`
-
+`2º semestre/2024`
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
