@@ -1,4 +1,4 @@
-## Web Arcade
+## WebArcade
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
