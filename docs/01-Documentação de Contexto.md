@@ -11,16 +11,19 @@ Nossa missão é tornar os jogos acessíveis a todos, independentemente da idade
 Essa atividade beneficia a todos, permitindo que assumam várias funções, como gerenciamento, raciocínio logico e reflexos e o mais importante, a diversão! 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A Falta de Tempo para Jogos Demorados: Um Dilema da Era Moderna 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+ 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Na era da informação, onde o tempo se tornou um recurso cada vez mais precioso, a falta de tempo para jogos demorados se tornou um problema cada vez mais comum. Com a rotina agitada do dia a dia, dividida entre trabalho, estudos, responsabilidades familiares e sociais, encontrar horas para dedicar a jogos longos e complexos pode ser um desafio. 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+As Consequências da Falta de Tempo: 
+
+<li>Frustração e Desânimo: Jogar por pouco tempo pode dificultar o progresso e a imersão em jogos longos, levando à frustração e ao desânimo.</li> 
+
+<li>Abandono de Jogos: A falta de tempo para dedicar aos jogos pode levar ao abandono de títulos que ainda não foram finalizados, acumulando uma lista de jogos "inacabados".</li> 
+
+<li>Dificuldade em Acompanhar Lançamentos: A constante demanda por jogos novos e longos pode tornar difícil acompanhar os lançamentos e experimentar novas experiências.</li>
 
 ## Objetivos
 
