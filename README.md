@@ -6,7 +6,6 @@
 
 `2º semestre/2024`
 ![W (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/c5635b08-9585-4df2-a39f-5acaa8446bf4)
-
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
