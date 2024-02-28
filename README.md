@@ -4,8 +4,7 @@
 
 `Projeto Desenvolvimento de Aplicação Web Back-End`
 
-`2º semestre/2024`
-![W (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/9371f94a-14ed-489b-8d3f-2060e7d71ec8)
+`2º semestre/2024`![W (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/9371f94a-14ed-489b-8d3f-2060e7d71ec8)
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
