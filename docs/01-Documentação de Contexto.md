@@ -1,6 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Bem-vindo ao Web Arcade, o seu portal para jogos acessíveis e rápidos! 
+
+ 
+
+Sem tempo para jogos que exigem horas de dedicação e habilidades complexas? Aqui no WA, você encontra jogos divertidos e desafiadores que podem ser jogados em qualquer lugar, a qualquer hora. 
+
+Nossa missão é tornar os jogos acessíveis a todos, independentemente da idade, habilidade ou experiência. 
+
+Essa atividade beneficia a todos, permitindo que assumam várias funções, como gerenciamento, raciocínio logico e reflexos e o mais importante, a diversão! 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
