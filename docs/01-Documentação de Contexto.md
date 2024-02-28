@@ -23,7 +23,7 @@ As Consequências da Falta de Tempo:
 
 <li>Abandono de Jogos: A falta de tempo para dedicar aos jogos pode levar ao abandono de títulos que ainda não foram finalizados, acumulando uma lista de jogos "inacabados".</li> 
 
-<li>Dificuldade em Acompanhar Lançamentos: A constante demanda por jogos novos e longos pode tornar difícil acompanhar os lançamentos e experimentar novas experiências.</li>
+<li>Dificuldade em Acompanhar Lançamentos: A constante demanda por jogos novos e longos pode tornar difícil acompanhar pela acessibilidade dos lançamentos e dificultar o usuario a ter novas experiências.</li>
 
 ## Objetivos
 
@@ -36,12 +36,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A falta de tempo para jogos demorados não é apenas uma questão de entretenimento, mas também afeta a qualidade de vida das pessoas. Jogos longos e complexos oferecem uma experiência imersiva e enriquecedora, proporcionando momentos de descontração e lazer que são essenciais para o bem-estar mental e emocional. No entanto, a dificuldade em encontrar tempo para se dedicar a esses jogos pode levar à frustração e ao sentimento de privação de uma forma de escapismo saudável.Além da falta de tempo, outro desafio enfrentado pelos entusiastas de jogos é a falta de acessibilidade a novos títulos. Com a indústria de jogos crescendo exponencialmente a cada ano, a quantidade de novos lançamentos é vasta e pode ser esmagadora para os jogadores que têm tempo limitado e falta de acesso a maquinas capazes de suportar tais jogos.Pensando nisso, a criação de um site dedicado à resolução do problema da falta de tempo e acessibilidade para jogos demorados não apenas atende a uma necessidade crescente na sociedade contemporânea, mas também abre espaço para a promoção de experiências de entretenimento enriquecedoras e significativas, contribuindo para o bem-estar e a satisfação dos indivíduos em meio às demandas cada vez mais exigentes do dia a dia.
 
 ## Público-Alvo
 
