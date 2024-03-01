@@ -37,6 +37,6 @@ A falta de tempo para jogos demorados não é apenas uma questão de entretenime
 
 Um site com jogos arcade oferece uma experiência de jogo divertida e desafiadora para pessoas de todas as idades e origens. O público-alvo é amplo e diversificado, e pode ser dividido em alguns grupos principais:
 
-<li>Amantes de jogos clássicos</li>
-<li>Jogadores casuais</li>
-<li>Jogadores hardcore</li>
+<li>Amantes de jogos clássicos, para aqueles que cresceram jogando jogos arcade nos anos 80 e 90.</li>
+<li>Jogadores casuais, para jogadores que buscam diversão rápida e instantânea.</li>
+<li>Jogadores hardcore, jogadores hardcore que buscam desafios e competições podem encontrar jogos que os levarão ao limite.</li>
