@@ -26,9 +26,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Jogador amante de jogos classicos     | diversas opções de jogos classicos                        | encontrar equipes sempre que tiver tempo disponível                              |
-| Jogadores casuais     | criar perfil detalhado com minhas preferencias de jogos, estilos de jogo e nível de jogabilidade                        | para me conectar com jogadores compatíveis e que compartilhem os mesmos interesses                               |
-| Jogadores hardcore         | Rankin de pontuação                    | maximizar o máximo a experiencia que gosto de ter dentro de um determinado jogo, sem grandes surpresas referente a interação                               |
+| Jogador amante de jogos classicos     | Diversas opções de jogos classicos                        | Relembrar momentos marcantes da infância, reviver a sensação e desafio proporcionada pelos jogos clássicos é algo que conecta e emociona                           |
+| Jogadores casuais     | registro rapidamente e de facil acesso                        | Para jogadores que buscam uma experiencias fáceis de aprender e jogar, tornando-os ideais para quem quer se divertir sem ter que passar horas aprendendo regras complexas.                               |
+| Jogadores hardcore         | Rankin de pontuação                    | aprimoram suas habilidades, estudando estratégias e dominando os meandros dos jogos.                               |
 
 
 
