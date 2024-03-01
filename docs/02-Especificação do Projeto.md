@@ -28,7 +28,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|---------------------------|----------------------------------|
 | Jogador amante de jogos classicos     | Diversas opções de jogos classicos                        | Relembrar momentos marcantes da infância, reviver a sensação e desafio proporcionada pelos jogos clássicos é algo que conecta e emociona                           |
 | Jogadores casuais     | Registro rapidamente e de facil acesso                        | Para jogadores que buscam uma experiencias fáceis de aprender e jogar, tornando-os ideais para quem quer se divertir sem ter que passar horas aprendendo regras complexas.                               |
-| Jogadores hardcore         | Ranking de pontuação                    | aprimoram suas habilidades, estudando estratégias e dominando os meandros dos jogos.                               |
+| Jogadores hardcore         | Ranking de pontuação                    | Aprimoram suas habilidades, estudando estratégias e dominando os meandros dos jogos.                               |
 
 
 
