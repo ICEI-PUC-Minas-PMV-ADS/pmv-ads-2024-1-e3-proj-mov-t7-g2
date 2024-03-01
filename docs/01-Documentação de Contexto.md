@@ -27,12 +27,7 @@ As Consequências da Falta de Tempo:
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Nossa solução visa criar uma plataforma de jogos arcade clássicos para jogar online, a qualquer hora e em qualquer lugar. Reviva a nostalgia dos jogos que marcaram época ou explore novos títulos que vão te desafiar e divertir. Estamos comprometidos em eliminar as barreiras que impedem os jogadores de vivenciar a plenitude das experiências.
 
 ## Justificativa
 
