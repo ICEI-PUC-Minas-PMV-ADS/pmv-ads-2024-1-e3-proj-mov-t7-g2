@@ -39,11 +39,11 @@ Pesquisa de campo feita pelo google forms, com 21 pessoas para basear nossos dad
 ## Público-Alvo
 
 Um site com jogos arcade oferece uma experiência de jogo divertida e desafiadora para pessoas de todas as idades e origens. O público-alvo é amplo e diversificado, e pode ser dividido em alguns grupos principais:
-
+<ul>
 <li>Amantes de jogos clássicos, para aqueles que cresceram jogando jogos arcade nos anos 80 e 90.</li>
 <li>Jogadores casuais, para jogadores que buscam diversão rápida e instantânea.</li>
 <li>Jogadores hardcore, jogadores hardcore que buscam desafios e competições podem encontrar jogos que os levarão ao limite.</li>
-
+</ul>
 
 Pesquisa de campo feita pelo google forms, com 21 pessoas para basear nossos dados:
 ![Resultado Da Pesquisa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/5fe515b5-4b05-4f7b-bafc-25ed5492c08b)
