@@ -45,4 +45,6 @@ Um site com jogos arcade oferece uma experiência de jogo divertida e desafiador
 <li>Jogadores hardcore, jogadores hardcore que buscam desafios e competições podem encontrar jogos que os levarão ao limite.</li>
 
 
+
+
 ![Resultado Da Pesquisa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/5fe515b5-4b05-4f7b-bafc-25ed5492c08b)
