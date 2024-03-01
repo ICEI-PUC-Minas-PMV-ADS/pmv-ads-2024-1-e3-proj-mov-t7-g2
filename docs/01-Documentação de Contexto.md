@@ -46,4 +46,4 @@ Um site com jogos arcade oferece uma experiência de jogo divertida e desafiador
 </ul>
 
 Pesquisa de campo feita pelo google forms, com 21 pessoas para basear nossos dados:
-![Resultado Da Pesquisa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/5fe515b5-4b05-4f7b-bafc-25ed5492c08b)
+![Resultado Da Pesquisa (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/assets/144962568/10c50b02-3b42-4c4f-8ecb-ab1a7d63b605)
