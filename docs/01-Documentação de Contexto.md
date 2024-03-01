@@ -33,6 +33,8 @@ Nossa solução visa criar uma plataforma de jogos arcade clássicos para jogar 
 
 A falta de tempo para jogos demorados não é apenas uma questão de entretenimento, mas também afeta a qualidade de vida das pessoas. Jogos longos e complexos oferecem uma experiência imersiva e enriquecedora, proporcionando momentos de descontração e lazer que são essenciais para o bem-estar mental e emocional. No entanto, a dificuldade em encontrar tempo para se dedicar a esses jogos pode levar à frustração e ao sentimento de privação de uma forma de escapismo saudável.Além da falta de tempo, outro desafio enfrentado pelos entusiastas de jogos é a falta de acessibilidade a novos títulos. Com a indústria de jogos crescendo exponencialmente a cada ano, a quantidade de novos lançamentos é vasta e pode ser esmagadora para os jogadores que têm tempo limitado e falta de acesso a maquinas capazes de suportar tais jogos.Pensando nisso, a criação de um site dedicado à resolução do problema da falta de tempo e acessibilidade para jogos demorados não apenas atende a uma necessidade crescente na sociedade contemporânea, mas também abre espaço para a promoção de experiências de entretenimento enriquecedoras e significativas, contribuindo para o bem-estar e a satisfação dos indivíduos em meio às demandas cada vez mais exigentes do dia a dia.
 
+![tabela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/4677f58d-712b-40e6-acb1-4282c156ac93)
+
 ## Público-Alvo
 
 Um site com jogos arcade oferece uma experiência de jogo divertida e desafiadora para pessoas de todas as idades e origens. O público-alvo é amplo e diversificado, e pode ser dividido em alguns grupos principais:
