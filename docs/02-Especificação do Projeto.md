@@ -72,15 +72,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuario se registre no site e efetue o login. | ALTA | 
+|RF-002| Acesso funcional para as aplicaçoes  | ALTA |
+|RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.   | MÉDIA |
+|RF-004| Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
+|RF-005|    | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser compatível com os navegadores. O site deve ser compatível com os principais navegadores do mercado. | ALTA | 
+|RNF-002| O site deve carregar em menos de 3 segundos para 90% dos usuários.| ALTA | 
+|RNF-003| O jogo deve rodar a pelo menos 30 quadros por segundo em todas as plataformas suportadas.| ALTA |
+|RNF-004| O site deve ter uma interface intuitiva e fácil de usar, com navegação simples e clara. | MÉDIO |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
