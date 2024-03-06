@@ -76,7 +76,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Acesso funcional para as aplicaçoes  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.   | MÉDIA |
 |RF-004| Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
-|RF-005|    | ALTA |
 
 ### Requisitos não Funcionais
 
