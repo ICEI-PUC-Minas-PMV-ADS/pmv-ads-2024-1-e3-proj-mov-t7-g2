@@ -73,7 +73,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuario se registre no site e efetue o login. | ALTA | 
-|RF-002| Acesso funcional para as aplicaçoes  | ALTA |
+|RF-002| Acesso funcional aos Jogos  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.   | MÉDIA |
 |RF-004| Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
 
