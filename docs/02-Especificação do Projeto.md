@@ -8,6 +8,9 @@ Persona 1
 
 Matheus Ferreira de 25 anos estudante de ADS  sempre foi apaixonado por videogames, mas à medida que os jogos se tornavam mais complexos e exigentes em termos de hardware,Matheus se via incapaz de acompanhar as últimas tendências,desanimado, ele um dia tropeçou em um site de jogos retro. Intrigado, acessou o site e foi recebido por uma gama de jogod antigos, desde o clássicos sonic e Mario.Os controles simples e os gráficos pixelados o cativaram instantaneamente. Matheus encontrou uma plataforma que não apenas resgatou suas memórias de juventude, mas também o ajudou a superar a frustração de não conseguir jogar os títulos modernos. Ele mergulhou em aventuras retrô, redescobrindo o prazer puro de jogar, livre das complexidades dos jogos atuais.
 
+
+
+
 Persona 2
 
 Maria Pires de 20 anos estudante de direito sempre foi uma entusiasta dos videogames, mas à medida que o tempo passava, a vida adulta trouxe responsabilidades e pouco tempo para acompanhar as novidades tecnológicas. Sentindo-se excluída do mundo dos jogos, Maria quase desistiu de sua paixão.Um dia, seu amigo Nathan recomendou a ela uma plataforma online dedicada a jogos retro. Cética, Maria deu uma chance e ficou surpresa ao encontrar uma vasta coleção de clássicos. Desde Super Mario Bros. até Snake, ela podia reviver os jogos que moldaram sua infância.A simplicidade dos controles e a familiaridade dos personagens a fizeram esquecer as frustrações dos jogos modernos. A plataforma retro tornou-se seu refúgio nostálgico, onde ela podia escapar da vida agitada e se perder nas aventuras que a fizeram apaixonar-se por videogames em primeiro lugar.
