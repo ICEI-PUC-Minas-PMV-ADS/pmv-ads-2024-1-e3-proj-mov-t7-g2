@@ -84,7 +84,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| A aplicação deve ser compatível com os navegadores. O site deve ser compatível com os principais navegadores do mercado. | ALTA | 
 |RNF-002| O site deve carregar em menos de 3 segundos para 90% dos usuários.| ALTA | 
 |RNF-003| O jogo deve rodar a pelo menos 30 quadros por segundo em todas as plataformas suportadas.| ALTA |
-|RNF-004| O site deve ter uma interface intuitiva e fácil de usar, com navegação simples e clara. | MÉDIO |
+| RNF-004 |  Usabilidade e Interface Amigável: Garantir que a interface seja intuitiva e fácil de usar, atendendo a jogadores de diferentes níveis de habilidade técnica.                     | ALTA    | 
+| RNF-005|  Disponibilidade e Escalabilidade: Assegurar que a plataforma esteja disponível 24 horas e seja escalável para lidar com um grande número de jogadores registrados.                      | ALTA    |
+| RNF-006 |  Segurança de Dados: Armazenar os dados dos jogadores com segurança, protegendo informações pessoais e preferências de jogo contra violações.                      | ALTA    | 
+
+
+
 
 ## Restrições
 
