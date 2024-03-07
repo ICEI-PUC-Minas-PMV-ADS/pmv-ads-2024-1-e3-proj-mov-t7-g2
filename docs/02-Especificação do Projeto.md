@@ -4,7 +4,7 @@
 
 ## Personas
 
-<img src="img/persona2.png" width="280px" height="200px">
+<img src="img/persona1.png" width="280px" height="200px">
 
 Matheus Ferreira de 25 anos estudante de ADS  sempre foi apaixonado por videogames, mas à medida que os jogos se tornavam mais complexos e exigentes em termos de hardware,Matheus se via incapaz de acompanhar as últimas tendências,desanimado, ele um dia tropeçou em um site de jogos retro. Intrigado, acessou o site e foi recebido por uma gama de jogod antigos, desde o clássicos sonic e Mario.Os controles simples e os gráficos pixelados o cativaram instantaneamente. Matheus encontrou uma plataforma que não apenas resgatou suas memórias de juventude, mas também o ajudou a superar a frustração de não conseguir jogar os títulos modernos. Ele mergulhou em aventuras retrô, redescobrindo o prazer puro de jogar, livre das complexidades dos jogos atuais.
 
@@ -15,11 +15,11 @@ Matheus Ferreira de 25 anos estudante de ADS  sempre foi apaixonado por videogam
 
 Maria Pires de 20 anos estudante de direito sempre foi uma entusiasta dos videogames, mas à medida que o tempo passava, a vida adulta trouxe responsabilidades e pouco tempo para acompanhar as novidades tecnológicas. Sentindo-se excluída do mundo dos jogos, Maria quase desistiu de sua paixão.Um dia, seu amigo Nathan recomendou a ela uma plataforma online dedicada a jogos retro. Cética, Maria deu uma chance e ficou surpresa ao encontrar uma vasta coleção de clássicos. Desde Super Mario Bros. até Snake, ela podia reviver os jogos que moldaram sua infância.A simplicidade dos controles e a familiaridade dos personagens a fizeram esquecer as frustrações dos jogos modernos. A plataforma retro tornou-se seu refúgio nostálgico, onde ela podia escapar da vida agitada e se perder nas aventuras que a fizeram apaixonar-se por videogames em primeiro lugar.
 
-<img src="img/persona2.png" width="280px" height="200px">
+<img src="img/persona3.png" width="280px" height="200px">
 
 Lucas Silva de 17 anos que esta cursando  o ensino medio, um jovem que sempre quis se perder nos mundos dos jogos, viu seus sonhos frustrados devido à sua deficiência física, que limitava seu acesso aos modernos controles complexos. Determinado a superar esse obstáculo, ele encontrou um site de jogos antigos aonde os controles eram bem simples e que não o impediam de passar horas jogando.Esse site traduzia os jogos que antes tinham comandos complexos em comandos mais simples e acessíveis. Lucas finalmente pôde jogar os jogos sem barreiras. A magia do site não apenas lhe permitiu explorar novos mundos virtuais, mas também inspirou outros jogadores com limitações físicas a seguir sua paixão
 
-<img src="img/persona2.png" width="280px" height="200px">
+<img src="img/persona4.png" width="280px" height="200px">
 
 Marcio de 32 anos, um trabalhador de escritório pai de 2 filhos, sentia-se desconectado do mundo dos videogames modernos devido à falta de tempo e recursos. Um dia, ao limpar seu sótão, deparou-se com seu antigo console Sega Genesis e uma coleção empoeirada de cartuchos porem o console ja estva muito ultrapassado e não funcionava mais.Vendo a frustração de seu pai os filhos de Marcio o apresentaram um site de jogos retro de facil acesso e baixa complexibilidade,movido pela nostalgia, Marcio se interresou pelo site  dedicou seu tempo livre para redescobrir a alegria dos jogos retrô. À noite, após um longo dia de trabalho, ele mergulhava nas aventuras pixeladas de Sonic, Pacman e outros clássicos. Esses momentos proporcionaram a Marcio uma pausa bem-vinda da vida agitada e uma conexão com suas paixões passadas e uma nova forma de se divertir com seus filhos.
 
