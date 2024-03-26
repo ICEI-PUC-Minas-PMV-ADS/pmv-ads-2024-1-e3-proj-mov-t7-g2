@@ -44,6 +44,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Acesso funcional aos Jogos  | ALTA |
 |RF-003| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os jogos.   | MÉDIA |
 |RF-004| Sistema de ranking (pontuaçao) para algumas aplicaçoes na soluçao.  | MÉDIA |
+|RF-005| Usuário poderar alterar o nome do perfil. | MÉDIA |
+|RF-006| Usuário poderar alterar a foto de perfil. | MÉDIA |
+|RF-007| Usuário poderar alterar alterar o email. | MÉDIA |
+|RF-008| Usuário poderar alterar a senha. | MÉDIA |
+|RF-009| Usuário tera acesso ao tutorial de cada jogo na aplicação | BAIXA |
+|RF-010|
 
 ### Requisitos não Funcionais
 
