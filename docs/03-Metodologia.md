@@ -5,8 +5,12 @@ A metodologia contempla as definições de ferramentas utilizadas pela equipe ta
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+|Ambiente     | Plataforma  |Link de acesso |
+|-------|-------------------------|----|
+| Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online> |
+| Design de Interfaces | Figma | <https://www.figma.com/file/AL18hLgkr8t7kHa3BGKWBq/Sus-Online?node-id=0%3A1> |
+| Gerenciamento do Projeto | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online/projects/1> |
+| Comunicação e Reuniões | Discord e WhatsApp | <https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:x-1C6F33rd95TjwGJk7DnskcTGfOJJXue5s54HXySrY1@thread.tacv2&ctx=channel>|
 
 ## Controle de Versão
 
