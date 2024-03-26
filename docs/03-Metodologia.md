@@ -10,7 +10,7 @@ A metodologia contempla as definições de ferramentas utilizadas pela equipe ta
 | Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online> |
 | Design de Interfaces | Figma | [https://www.figma.com/file/AL18hLgkr8t7kHa3BGKWBq/Sus-Online?node-id=0%3A1](https://www.figma.com/proto/TqRObe05WxsIhUHcQVvYzB/Untitled?type=design&node-id=1-6&t=TaMgpsKrQ0gPQVOd-0&scaling=min-zoom&page-id=0%3A1) |
 | Gerenciamento do Projeto | GitHub | [<https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online/projects/1>](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2) |
-| Comunicação e Reuniões | Discord e WhatsApp | <https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:x-1C6F33rd95TjwGJk7DnskcTGfOJJXue5s54HXySrY1@thread.tacv2&ctx=channel>|
+| Comunicação e Reuniões | Discord e WhatsApp | https://discord.gg/kJMmjF6P|
 
 ## Controle de Versão
 
