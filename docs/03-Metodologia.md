@@ -50,8 +50,8 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 A equipe está organizada da seguinte maneira:
 - Scrum Master: Nathan Luiz Aquino Moreira
 - Product Owner: Joao Paulo de Oliveira
-- Equipe de Desenvolvimento: Álvaro Tadeu, Matheus Deves, Vinicius Souza
-- Equipe de Design: Nathan Luiz Aquino Moreira, Joao Paulo de Oliveira, Vinicius Souza
+- Equipe de Desenvolvimento: Álvaro Tadeu, Eros Rodrigues, Vinicius Souza
+- Equipe de Design: Nathan Luiz Aquino Moreira, Joao Paulo de Oliveira, Vinicius Souza,Gustavo da Silva
 
 ### Processo
 
