@@ -59,6 +59,7 @@ Estado atual na figura abaixo:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/145401221/0156cfd4-e4ee-4b0e-927d-bff55a7b5528)
 
+*Figura 2 - Kanban pelo GitHub*
 
 ### Ferramentas
 
