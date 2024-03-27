@@ -16,7 +16,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 <h3><b>Tela - Login</b></h3>
-<p>Tela de login apresenta os campos de "nome de usuario" e "senha" para caso o usuario ja tenha cadastro no site preencha apenas essas credenciais, caso ele nao tenha é possivel criar um registro clincando em "Não conseguir iniciar sessão? Criar conta".Acesse o <a href="https://www.figma.com/proto/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=1-2&t=YnjD1XUWNbGzugpF-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2">ambiente Figma do projeto</a>.
+<p>Tela de login apresenta os campos de "nome de usuario" e "senha" para caso o usuario ja tenha cadastro no site preencha apenas essas credenciais, caso ele nao tenha é possivel criar um registro clincando em "Não conseguir iniciar sessão? Criar conta".Acesse o <a href="[https://www.figma.com/proto/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=1-2&t=YnjD1XUWNbGzugpF-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2](https://www.figma.com/proto/TqRObe05WxsIhUHcQVvYzB/Untitled?type=design&node-id=1-6&t=TaMgpsKrQ0gPQVOd-0&scaling=min-zoom&page-id=0%3A1)">ambiente Figma do projeto</a>.
  </p>
   
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/1a634c67-48d7-4d7b-86dc-b0d40072707d)
