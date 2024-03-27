@@ -72,10 +72,10 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-GitHub
-VS Code
-Figma
-Discord
-WhatsApp
-Canva
+- GitHub
+- VS Code
+- Figma
+- Discord
+- WhatsApp
+- Canva
 O VS Code foi escolhido porque ele possui uma integração com o GitHub. O Discord e WhatsApp foi escolhido por ser o software padrão para as aulas, para criar WireFrames utilizamos o Figma que permite edição em tempo real e o Canva para imagens de FrontEnd.
