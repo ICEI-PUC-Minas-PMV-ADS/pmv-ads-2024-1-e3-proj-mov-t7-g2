@@ -22,43 +22,67 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 
 <figure> 
-  <figcaption>Figura 1 - Tela home page
+  <figcaption>Figura 1 - Tela Login
 </figure> 
 <hr>
-<h3><b>Tela - Login e Registre-se</b></h3>
-<p>Tela de login e registre-se, ao clicar no primeiro icone será  aberto um pop up aonde o usario poderá fazer login caso ja tenha conta ou se registrar no site caso não tenha.</p>
+<h3><b>Tela -  Registre-se</b></h3>
+<p>Texto</p>
 
- ![Tela 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/c18f2b0d-b102-4834-93f2-86bf3af00240)
+ ![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/7136e770-18fa-4725-bee8-a36b82ec8b59)
+
   
 <figure> 
-  <figcaption> Figura 4 - Login e Registre-se
+  <figcaption> Figura 2 - Tela Registre-se
 </figure> 
 <hr>
 
-<h3><b>Tela - Lista de amigos</b></h3>
-<p>Tela de lista de amigos, clicando no segundo icone o pop up da tela de amigos será aberto aonde o usuario podera ver seus amigos adicionados.</p>
+<h3><b>Tela - Home page</b></h3>
+<p>Texto</p>
 
-
-![Tela 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/1a5b0aac-5bfb-4db5-a74f-42c3ac41692d)
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/078441dc-a7cd-499a-888b-2b04740321ac)
 
 
   
 <figure>  
-    <figcaption>Figura 5 - Tela de lista de amigos     
+    <figcaption>Figura 3 - Tela Home page   
 </figure> 
 <hr>
 
-<h3><b>Tela – Adicionar Amigos</b></h3>
-<p>Tela adicionar amigos, dentro do pop up lista de amigos tem um icone com um + aonde clicando o usuario conseguira buscar outro usuario atraves do nickname e o adiciona-lo a lista de amigos. </p>
+<h3><b>Tela – Perfil</b></h3>
+<p>Texto </p>
   
-![Tela 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/37a9631c-db56-4088-83d0-951ec22193d5)
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/f3b53300-5188-4d18-b56f-f301f8303541)
+
 
 
 <figure> 
-    <figcaption>Figura 6 - Tela de Adicionar Amigos
+    <figcaption>Figura 4 - Tela Perfil
 </figure>
 <hr>
 
-<h3><b>Tela – Perfil</b></h3>
-<p>Tela perfil, la o usuario será capaz de adicionar ou alterar informações de seu perfil.</p>
+<h3><b>Tela – Sobre</b></h3>
+<p>Texto </p>
+  
+![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/92b2193f-d720-4948-a567-54fa40dc0ea3)
+
+
+
+<figure> 
+    <figcaption>Figura 5 - Tela Sobre
+</figure>
+<hr>
+
+<h3><b>Tela – Jogos</b></h3>
+<p>Texto </p>
+  
+
+![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/6f9aa9ba-f0af-4a1b-b608-440ef9b21075)
+
+
+
+<figure> 
+    <figcaption>Figura 6 - Tela Jogos
+</figure>
+<hr>
+
 
