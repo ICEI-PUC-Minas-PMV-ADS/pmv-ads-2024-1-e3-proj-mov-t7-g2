@@ -9,7 +9,7 @@ A metodologia contempla as definições de ferramentas utilizadas pela equipe ta
 |-------|-------------------------|----|
 | Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/tree/main/codigo-fonte |
 | Design de Interfaces | Figma | https://www.figma.com/proto/TqRObe05WxsIhUHcQVvYzB/Untitled?type=design&node-id=1-6&t=TaMgpsKrQ0gPQVOd-0&scaling=min-zoom&page-id=0%3A1 |
-| Gerenciamento do Projeto | GitHub | [<https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online/projects/1>](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2) |
+| Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/946/views/1) |
 | Comunicação e Reuniões | Discord e WhatsApp | https://discord.gg/kJMmjF6P|
 
 ## Controle de Versão
