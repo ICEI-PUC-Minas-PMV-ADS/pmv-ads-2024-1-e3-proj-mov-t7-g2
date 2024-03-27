@@ -52,6 +52,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
 - In Progress: lista das tarefas iniciadas e em desenvolvimento.
 - Done: Nesta lista são colocadas as tarefas finalizadas, que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
+  
 Usamos o metodo Kanban para dividir as tarefas da equipe, via GitHub. O quadro esta disponível neste link.
 
 Estado atual na figura abaixo:
