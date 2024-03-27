@@ -16,7 +16,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 <h3><b>Tela - Login</b></h3>
-<p>Tela de login apresenta os campos de "nome de usuario" e "senha" para caso o usuario ja tenha cadastro no site so preencha essas credenciais,caso ele nao tenha e possivel criar um registro clincando na frase" Não conseguir iniciar sessão?Criar conta" </p>
+<p>Tela de login apresenta os campos de "nome de usuario" e "senha" para caso o usuario ja tenha cadastro no site preencha apenas essas credenciais, caso ele nao tenha é possivel criar um registro clincando em "Não consegue iniciar sessão? Criar conta" </p>
   
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/1a634c67-48d7-4d7b-86dc-b0d40072707d)
 
