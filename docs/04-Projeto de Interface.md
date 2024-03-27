@@ -37,7 +37,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 <hr>
 
 <h3><b>Tela - Pós login</b></h3>
-<p>Apresentará as opcões disponiveis de aplicacoes junto a um carrocel com imagens do mesmo e um campo de pesquisa rapida.</p>
+<p>Apresentará as opcões disponiveis de aplicaçoes junto a um carrocel com imagens do mesmo e um campo de pesquisa rapida.</p>
 
 ![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/078441dc-a7cd-499a-888b-2b04740321ac)
 
