@@ -15,14 +15,14 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
-<h3><b>Tela - Home page</b></h3>
-<p>Tela de home page apresenta a logo da página aonde por ela o usuário e capaz de voltar para a home page ao clicar nela, barra de pesquisa aonde o usuario podera buscar por jogos, banner aonde ficara imagens de alguns jogos e tambem os icones de perfil, registre-se ou login e amigos, um atalho para cair nas salas dos jogos desejados(os jogos em alta ficam espostos na home page). </p>
+<h3><b>Tela - Login</b></h3>
+<p>Tela de login apresenta os campos de "nome de usuario" e "senha" para caso o usuario ja tenha cadastro no site so preencha essas credenciais,caso ele nao tenha e possivel criar um registro clincando na frase" Não conseguir iniciar sessão?Criar conta" </p>
   
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/144962568/1a634c67-48d7-4d7b-86dc-b0d40072707d)
 
 
 <figure> 
-  <figcaption>Figura 3 - Tela home page
+  <figcaption>Figura 1 - Tela home page
 </figure> 
 <hr>
 
