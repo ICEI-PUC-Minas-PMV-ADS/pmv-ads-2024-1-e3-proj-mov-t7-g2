@@ -32,16 +32,12 @@ O projeto segue a seguinte convenção para o nome de branches:
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `bug`: Indica um problema inesperado ou comportamento involuntário
-- `duplicate`: Indica problemas, pull requests ou discussões
-- `help wanted`: Indica que um mantenedor deseja ajudar em um problema ou uma pull request
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `invalid`: Indica que um problema, pull request ou discussão já não é relevante
-- `documentation`: melhorias ou acréscimos à documentação
-- `question`: Indica que um problema, pull request ou discussão precisa de mais informações
-- `bug`: uma funcionalidade encontra-se com problemas
-- `feature`: uma nova funcionalidade precisa ser introduzida
-- `wontfix`: Indica que o trabalho não continuará em um problema, pull request ou discussão
+- `Bug` (Erro no código)
+- `Desenvolvimento` (Development)
+- `Documentação` (Documentation)
+- `Gerência de Projetos` (Project Management)
+- `Infraestrutura` (Infrastructure)
+- `Testes` (Tests)
 
 
 ## Gerenciamento de Projeto
