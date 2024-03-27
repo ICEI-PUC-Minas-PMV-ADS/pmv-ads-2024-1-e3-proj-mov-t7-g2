@@ -16,7 +16,7 @@ A metodologia contempla as definições de ferramentas utilizadas pela equipe ta
 
 Para a gestão do código fonte será utilizado o modelo de processo baseado no Git Flow, como mostrado na figura a seguir:
 
-![alt text](/docs/img/git_Flow.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-g2/assets/145401221/4ef21e18-de7c-44d6-886a-2a461704343f)
 
 *Figura 1 - Fluxo de controle do código fonte*
 
