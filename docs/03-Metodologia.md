@@ -14,9 +14,13 @@ A metodologia contempla as definições de ferramentas utilizadas pela equipe ta
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Para a gestão do código fonte será utilizado o modelo de processo baseado no Git Flow, como mostrado na figura a seguir:
+
+![alt text](/docs/img/git_Flow.png)
+
+*Figura 1 - Fluxo de controle do código fonte*
+
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -28,20 +32,16 @@ O projeto segue a seguinte convenção para o nome de branches:
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
+- `bug`: Indica um problema inesperado ou comportamento involuntário
+- `duplicate`: Indica problemas, pull requests ou discussões
+- `help wanted`: Indica que um mantenedor deseja ajudar em um problema ou uma pull request
 - `enhancement`: uma funcionalidade precisa ser melhorada
+- `invalid`: Indica que um problema, pull request ou discussão já não é relevante
+- `documentation`: melhorias ou acréscimos à documentação
+- `question`: Indica que um problema, pull request ou discussão precisa de mais informações
+- `bug`: uma funcionalidade encontra-se com problemas
 - `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+- `wontfix`: Indica que o trabalho não continuará em um problema, pull request ou discussão
 
 ## Gerenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
